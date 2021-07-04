@@ -7,3 +7,4 @@ En esta aplicación habrá funcionalidades para:
 ___
 ### Requerimientos ⚙️
  - Flutter SDK: >=2.12.0 <3.0.0
+ - Flutter Redux: >0.8.2
